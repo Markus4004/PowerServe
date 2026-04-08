@@ -15,3 +15,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // handle the edge case from the last release
 // clarify the control flow
 // handle the edge case from the last release
+// guard against empty input
